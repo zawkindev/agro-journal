@@ -25,6 +25,7 @@
             export NODE_ENV=development
             echo "✅ Ready to use Next.js with Bun"
             echo "👉 Run: bun install && bun run dev"
+            zsh
           '';
         };
       });
